@@ -1,7 +1,6 @@
 # USERXP.NET IMAGE DROP
 
-    ![Project Screenshot](screenshot.png) <!-- Add a screenshot later if needed -->
-
+    
     A minimalist image management web application built with Node.js and Express. Allows users to upload, view, rename, and delete images through a clean, drag-and-drop interface.
 
     ## Features
