@@ -1,0 +1,1 @@
+# SG_IMAGE_DROP
